@@ -1,0 +1,11 @@
+E:\repositorio\platzi\FundamentoCsharpNetCore\bin\Debug\netcoreapp2.1\FundamentoCsharpNetCore.deps.json
+E:\repositorio\platzi\FundamentoCsharpNetCore\bin\Debug\netcoreapp2.1\FundamentoCsharpNetCore.runtimeconfig.json
+E:\repositorio\platzi\FundamentoCsharpNetCore\bin\Debug\netcoreapp2.1\FundamentoCsharpNetCore.runtimeconfig.dev.json
+E:\repositorio\platzi\FundamentoCsharpNetCore\bin\Debug\netcoreapp2.1\FundamentoCsharpNetCore.dll
+E:\repositorio\platzi\FundamentoCsharpNetCore\bin\Debug\netcoreapp2.1\FundamentoCsharpNetCore.pdb
+E:\repositorio\platzi\FundamentoCsharpNetCore\obj\Debug\netcoreapp2.1\FundamentoCsharpNetCore.csprojAssemblyReference.cache
+E:\repositorio\platzi\FundamentoCsharpNetCore\obj\Debug\netcoreapp2.1\FundamentoCsharpNetCore.csproj.CoreCompileInputs.cache
+E:\repositorio\platzi\FundamentoCsharpNetCore\obj\Debug\netcoreapp2.1\FundamentoCsharpNetCore.AssemblyInfoInputs.cache
+E:\repositorio\platzi\FundamentoCsharpNetCore\obj\Debug\netcoreapp2.1\FundamentoCsharpNetCore.AssemblyInfo.cs
+E:\repositorio\platzi\FundamentoCsharpNetCore\obj\Debug\netcoreapp2.1\FundamentoCsharpNetCore.dll
+E:\repositorio\platzi\FundamentoCsharpNetCore\obj\Debug\netcoreapp2.1\FundamentoCsharpNetCore.pdb

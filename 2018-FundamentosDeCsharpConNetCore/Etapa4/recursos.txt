@@ -1,0 +1,26 @@
+-- atajos 
+
+* Para copiar y pegar la misma linea debajo podemos usar el atajo:
+    Shift + Alt + ⬇
+
+* Se puede usar el atajo:
+    alt + ↑
+    alt + ↓
+  para mover la linea seleccionada.
+
+* seleccionar una raya
+  alt + shift + presionando click
+
+-- (shorcuts)
+* prop + tab = propiedad
+* ctor + tab = constructor
+* ctrl + . = para generar metodo
+* seleccionamos el metodo y luego "F2",
+ cambia todos los metodos que tienen el mismo
+ nombre por el nuevo metodo que escribimos.
+
+ -- snippets
+ * Ctrl + Space 
+
+-- extensiones
+* C# Extensions
